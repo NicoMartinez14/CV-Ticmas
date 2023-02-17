@@ -1,0 +1,141 @@
+/** Color del fondo  **/
+body{
+  background-color:peru;
+  margin: 0;
+  padding: 0;
+}
+
+/** NOMBRE**/
+
+.centerr{
+text-align: center;
+margin: 10;
+}
+header h1 {
+text-align: center;
+border: 3px solid black ;
+margin-bottom: 30px;
+margin-top: auto;
+} 
+
+header h2{
+text-align: center;
+border: 3px solid black;
+}
+
+#sect1{
+width: 200px;
+height:100px;
+
+border: 3px solid black;
+padding: 30px;
+margin: auto;
+}
+
+/** INFORMACION PERSONAL **/
+
+#sect2{
+border: 3px solid black;
+text-align: center;
+margin-top:20px;
+margin-left: 500px;
+margin-right: 500px;
+
+}
+
+/**estilo de letra**/
+#negrita{
+  border: 1px solid red;
+  background-color:wheat;
+  margin-left: 50px;
+  margin-right: 50px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#info{
+
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+/** EDUCACION **/
+#educ {
+
+text-align: center;
+border: 3px solid black;
+margin-left: 700px;
+margin-right: 700px;
+background-color: darkgrey;
+}
+
+
+#estudios{
+
+text-align: center;
+border: 3px solid black;
+margin-left: 700px;
+margin-right: 700px;
+
+}
+
+
+#site{
+
+  border: 1px solid red;
+  margin-left: 150px;
+  margin-right: 150px;
+  background-color: wheat;
+
+}
+
+
+/**EXP**/
+#exp{
+
+  border: 3px solid black;
+  text-align: center;
+  margin-left: 700px;
+  margin-right: 700px;
+background-color: darkgrey;
+}
+
+#lab{
+text-align: center;
+border: 3px solid black;
+margin-left: 800px;
+margin-right: 800px;
+
+
+}
+
+
+/**HABILIDAD**/
+
+#hab{
+
+   text-align: center;
+   border: 3px solid black;
+   margin-left: 700px;
+   margin-right: 700px;
+   background-color: darkgray;
+
+
+}
+
+
+
+#hab1{
+text-align: center;
+border: 3px solid black;
+margin-left: 700px;
+margin-right: 700px;
+
+}
+
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: wheat;
+  }
+}
+
